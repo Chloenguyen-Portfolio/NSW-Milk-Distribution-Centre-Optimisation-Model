@@ -1,6 +1,6 @@
 ## NSW-Milk-Distribution-Centre-Optimisation-Model
-You have been hired by the NSW state government to consult on a project in which they are proposing to develop several new milk distribution centres to service all LGAs of NSW. Some context for the problem is given below. 
-Your task is to provide advice for the government to inform its decision to build up to three milk distribution centres. 
+You have been hired by the NSW state government to consult on a project in which they are proposing to develop several new milk distribution centres to service all LGAs of NSW. Some context for the problem is given below. Your task is to provide advice for the government to inform its decision to build up to three milk distribution centres. 
+
 •	The cost of distributing n litres of milk from LGA A to LGA B is a function of the distance between A and B. The cost can be calculated as being d x n x $0.10 where d = distance between A and B (in km) and n = number of litres. 
 •	The cost of establishing a distribution centre is dependent on the proposed maximum capacity of the distribution centre. You can assume that the cost of creating a centre with processing capacity of n litres is n x $1000. 
 •	There is sufficient budget to establish up to 3 distribution centres. To distribute external risk, no single distribution centre should be allowed to have more production capacity than 50% of the entire state’s demand.
