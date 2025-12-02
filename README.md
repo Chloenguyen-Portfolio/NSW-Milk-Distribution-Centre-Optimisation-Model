@@ -8,7 +8,7 @@ You have been hired by the NSW state government to consult on a project in which
 
 Age and life stage	Recommended dietary intake of calcium (mg/day)
 
-<img width="978" height="658" alt="image" src="https://github.com/user-attachments/assets/9e754b52-c336-4d2f-9862-3be2a64c3d7f" />
+<img width="739" height="491" alt="image" src="https://github.com/user-attachments/assets/e47fd021-6ca5-4e1a-b9c6-3bbcd4c958fa" />
 
 - Additionally, you will require LGA distance data to determine distribution costs. For this assignment, you should use a random number generator (such as excel’s RANDBETWEEN() or python’s randint() functions) to generate a reasonable pseudo-dataset containing LGA distances to use.
 
