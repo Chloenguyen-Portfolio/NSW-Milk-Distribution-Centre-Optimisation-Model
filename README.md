@@ -1,4 +1,4 @@
-## NSW-Milk-Distribution-Centre-Optimisation-Model
+## NSW Milk-Distribution Centre Optimisation Model
 The report is made for the individual assignment for USYD's unit - QBUS2310.
 
 You have been hired by the NSW state government to consult on a project in which they are proposing to develop several new milk distribution centres to service all LGAs of NSW. Some context for the problem is given below. Your task is to provide advice for the government to inform its decision to build up to three milk distribution centres. 
