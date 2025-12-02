@@ -7,18 +7,9 @@ You have been hired by the NSW state government to consult on a project in which
 - The RDI data for different population groups is as shown below: 
 
 Age and life stage	Recommended dietary intake of calcium (mg/day)
-Babies 0-6 months - breastfed	210 mg
-Babies 0-6 months - formula fed	350 mg
-Babies 7-12 months	270 mg
-Children 1-3 years	500 mg
-Children 4-8 years	700 mg
-Children 9-11 years	1,000 mg
-Adolescents 12-18 years (including pregnant and breastfeeding young women)	1,300 mg
-Women 19-50 (including pregnant and breastfeeding women)	1,000 mg
-Women 51-70	1,300 mg
-Men 19-70	1,000 mg
-Adults over 70	1,300 mg
-	
+
+<img width="978" height="658" alt="image" src="https://github.com/user-attachments/assets/9e754b52-c336-4d2f-9862-3be2a64c3d7f" />
+
 - Additionally, you will require LGA distance data to determine distribution costs. For this assignment, you should use a random number generator (such as excel’s RANDBETWEEN() or python’s randint() functions) to generate a reasonable pseudo-dataset containing LGA distances to use.
 
 Task 1: Suppose it is 2001. Formulate and solve a problem to determine the sites of the three distribution centres to minimise expected distribution costs while considering all other requirements. Provide a short description (as relevant) of your formulation.
