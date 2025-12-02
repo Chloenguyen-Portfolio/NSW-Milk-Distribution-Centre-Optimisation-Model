@@ -1,4 +1,6 @@
 ## NSW-Milk-Distribution-Centre-Optimisation-Model
+The report is made for the individual assignment for USYD's unit - QBUS2310.
+
 You have been hired by the NSW state government to consult on a project in which they are proposing to develop several new milk distribution centres to service all LGAs of NSW. Some context for the problem is given below. Your task is to provide advice for the government to inform its decision to build up to three milk distribution centres. 
 
 - The cost of distributing n litres of milk from LGA A to LGA B is a function of the distance between A and B. The cost can be calculated as being d x n x $0.10 where d = distance between A and B (in km) and n = number of litres.
