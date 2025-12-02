@@ -20,7 +20,7 @@ Men 19-70	1,000 mg
 Adults over 70	1,300 mg
 	
 - Additionally, you will require LGA distance data to determine distribution costs. For this assignment, you should use a random number generator (such as excel’s RANDBETWEEN() or python’s randint() functions) to generate a reasonable pseudo-dataset containing LGA distances to use.
-- 
+
 Task 1: Suppose it is 2001. Formulate and solve a problem to determine the sites of the three distribution centres to minimise expected distribution costs while considering all other requirements. Provide a short description (as relevant) of your formulation.
 
 Task 2: An additional consideration for the government is that Australia’s population is forecasted to grow over the coming years. They forecast 10% growth per annum over the next three years. Run a sensitivity analysis of your model to accommodate for potential population growth in the next three years. The government is planning for each facility to have a lifespan of at least 20 years. Please provide a discussion of how you would take this into account (no need to re-formulate).
